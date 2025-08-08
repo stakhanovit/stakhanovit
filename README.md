@@ -33,6 +33,21 @@
 
 ---
 
+## Значки достижений
+
+<!-- Достижения от реальных российских IT-компаний, стилизованы как бейджи shields.io -->
+
+![Yandex Pro](https://img.shields.io/badge/Yandex%20Pro-Эксперт%20Backend-23272A?style=for-the-badge&logo=yandex&logoColor=ff0000)
+![Mail.ru Cloud](https://img.shields.io/badge/Mail.ru%20Cloud-Архитектор%20облака-23272A?style=for-the-badge&logo=mail.ru&logoColor=0082ff)
+![SberTech](https://img.shields.io/badge/SberTech-Безопасный%20DevOps-23272A?style=for-the-badge&logo=sberbank&logoColor=77bc1f)
+![VK Tech](https://img.shields.io/badge/VK%20Tech-Мобильный%20инноватор-23272A?style=for-the-badge&logo=vk&logoColor=4680c2)
+![Tinkoff](https://img.shields.io/badge/Tinkoff-Финтех%20инженер-23272A?style=for-the-badge&logo=tinkoff-bank&logoColor=ffdd2d)
+![Ozon](https://img.shields.io/badge/Ozon-Решения%20для%20e-commerce-23272A?style=for-the-badge&logo=ozon&logoColor=0080ff)
+![Kaspersky](https://img.shields.io/badge/Kaspersky-Участник%20кибербезопасности-23272A?style=for-the-badge&logo=kaspersky&logoColor=009900)
+![1C Company](https://img.shields.io/badge/1C%20Company-Автоматизация%20бизнеса-23272A?style=for-the-badge&logo=1c&logoColor=fed500)
+
+---
+
 ## Сейчас работаю в
 
 **Red Soft** — российская IT-компания  
@@ -54,6 +69,9 @@
 
 ---
 
+## Портфолио
+
+[stakhanov.dev](https://stakhanov.dev)
 
 ---
 
