@@ -42,7 +42,6 @@
 ![SberTech](https://img.shields.io/badge/SberTech-Безопасный%20DevOps-23272A?style=for-the-badge&logo=sberbank&logoColor=77bc1f)
 ![VK Tech](https://img.shields.io/badge/VK%20Tech-Мобильный%20инноватор-23272A?style=for-the-badge&logo=vk&logoColor=4680c2)
 ![Tinkoff](https://img.shields.io/badge/Tinkoff-Финтех%20инженер-23272A?style=for-the-badge&logo=tinkoff-bank&logoColor=ffdd2d)
-![Ozon](https://img.shields.io/badge/Ozon-Решения%20для%20e-commerce-23272A?style=for-the-badge&logo=ozon&logoColor=0080ff)
 ![Kaspersky](https://img.shields.io/badge/Kaspersky-Участник%20кибербезопасности-23272A?style=for-the-badge&logo=kaspersky&logoColor=009900)
 ![1C Company](https://img.shields.io/badge/1C%20Company-Автоматизация%20бизнеса-23272A?style=for-the-badge&logo=1c&logoColor=fed500)
 
