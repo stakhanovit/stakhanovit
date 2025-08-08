@@ -54,9 +54,6 @@
 
 ---
 
-## Портфолио
-
-[stakhanov.dev](https://stakhanov.dev)
 
 ---
 
