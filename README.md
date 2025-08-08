@@ -65,11 +65,3 @@
 ## Цитата
 
 > Чистый код — это акт уважения к другим разработчикам
-
----
-
-## Клонирование проекта
-
-```sh
-git clone https://github.com/stakhanovit/stakhanovit.git
-```
