@@ -68,12 +68,6 @@
 
 ---
 
-## Портфолио
-
-[stakhanov.dev](https://stakhanov.dev)
-
----
-
 ## Клонирование проекта
 
 ```sh
